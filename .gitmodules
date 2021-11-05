@@ -1,3 +1,0 @@
-[submodule "static/htmlgen"]
-	path = static/htmlgen
-	url = git@github.com:martian17/htmlgen.git
